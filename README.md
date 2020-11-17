@@ -1,2 +1,2 @@
 # smallmin.github.io
-smallmin's pages
+## smallmin's pages
